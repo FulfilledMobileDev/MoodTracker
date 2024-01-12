@@ -65,3 +65,4 @@ yarn-error.log
 # testing
 /coverage
 ios/MoodTracker.xcworkspace/contents.xcworkspacedata
+ios/MoodTracker.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
